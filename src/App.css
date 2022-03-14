@@ -1,0 +1,12 @@
+.app{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.button{
+  width: 100px;
+  justify-content: center;
+}
